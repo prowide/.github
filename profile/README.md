@@ -1,4 +1,4 @@
-![alt tag](https://www.prowidesoftware.com/img/logo/horizontal/500x142.png)
+![alt tag](https://www.prowidesoftware.com/assets/logo.png)
 
 Welcome to the Prowide GitHub Organization! We are dedicated to providing robust, open-source solutions for financial messaging, with a focus on SWIFT MT and ISO 20022 standards. Our libraries are widely used by financial institutions, payment processors, and developers around the world to streamline the processing and integration of financial messages.
 
