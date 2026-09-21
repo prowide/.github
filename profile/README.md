@@ -20,6 +20,13 @@ A comprehensive library for handling ISO 20022 messages. This project provides t
 
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your help is appreciated. Please review our [contributing guidelines](https://github.com/prowide/.github/blob/main/CONTRIBUTING.md) to get started.
 
+## Reporting Security Issues
+
+To report a security vulnerability in any Prowide project, please email
+**cybersecurity@prowidesoftware.com**. Please do not use public issues or
+discussions for security reports. See our
+[security policy](https://github.com/prowide/.github/blob/main/SECURITY.md).
+
 ## Support and Services
 
 While our core libraries are open-source, we also offer commercial support and services for organizations that require additional features, customization, or dedicated assistance. 
